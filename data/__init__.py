@@ -1,0 +1,12 @@
+from data.add import Add as Add
+from data.bilinearratio import BilinearRatio as BilinearRatio
+from data.division import Division as Division
+from data.eml import EML as EML
+from data.exp import Exp as Exp
+from data.matyas import Matyas as Matyas
+from data.multiplication import Multiplication as Multiplication
+from data.nestedrational import NestedRational as NestedRational
+from data.rational_interation import RationalInteraction as RationalInteraction
+from data.regression_dataset import RegressionDataset as RegressionDataset
+from data.runge import Runge as Runge
+from data.subtraction import Subtraction as Subtraction
